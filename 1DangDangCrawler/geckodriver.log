@@ -1,0 +1,1432 @@
+1575165094273	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileAzf44O"
+1575165095426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575165095426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575165095426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575165095426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575165097549	Marionette	INFO	Listening on port 52404
+1575165097631	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575165100217	Marionette	INFO	Stopped listening on port 52404
+1575165137243	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileAT1rLG"
+1575165137758	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575165137758	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575165137758	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575165137758	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575165139419	Marionette	INFO	Listening on port 52498
+1575165139525	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575165380352	Marionette	INFO	Stopped listening on port 52498
+1575167041473	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofilepzctNN"
+1575167042108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575167042108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575167042108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575167042108	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575167043747	Marionette	INFO	Listening on port 52772
+1575167043750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575167125161	Marionette	INFO	Stopped listening on port 52772
+1575167745446	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofilekLU0Ds"
+1575167746018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575167746018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575167746018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575167746018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575167747751	Marionette	INFO	Listening on port 53020
+1575167747835	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575167753778	Marionette	INFO	Stopped listening on port 53020
+1575167764923	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileUDT62c"
+1575167765350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575167765350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575167765350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575167765350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575167766939	Marionette	INFO	Listening on port 53107
+1575167767004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575167811300	Marionette	INFO	Stopped listening on port 53107
+1575167883906	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileYxA75X"
+1575167884357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575167884357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575167884357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575167884357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575167885978	Marionette	INFO	Listening on port 53185
+1575167885989	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.douban.com"
+console.warn: LoginManager: "searchLogins: `formActionOrigin` or `httpRealm` is recommended"
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2205))
+1575168055130	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileUzTQDU"
+1575168055747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575168055747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575168055747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575168055747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575168057466	Marionette	INFO	Listening on port 53277
+1575168057523	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575168271223	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileH4rGMY"
+1575168271847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575168271847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575168271847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575168271847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575168273617	Marionette	INFO	Listening on port 53372
+1575168273712	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575168451599	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileNcHgJ9"
+1575168452263	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575168452264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575168452264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575168452264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575168454005	Marionette	INFO	Listening on port 53466
+1575168454092	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575168481417	Marionette	INFO	Stopped listening on port 53466
+1575168484118	Marionette	INFO	Stopped listening on port 53372
+1575168486135	Marionette	INFO	Stopped listening on port 53277
+1575168489561	Marionette	INFO	Stopped listening on port 53185
+1575168535136	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileFdpHn1"
+1575168535571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575168535571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575168535571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575168535571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575168537138	Marionette	INFO	Listening on port 53551
+1575168537202	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1575168581659	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofilehQVhtN"
+1575168582079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575168582079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575168582079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575168582079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575168583640	Marionette	INFO	Listening on port 53630
+1575168583738	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3122, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1575172401699	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileytaJRk"
+1575172402329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575172402330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575172402330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575172402330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575172404121	Marionette	INFO	Listening on port 54491
+1575172404192	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575172421405	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofile5x9Iwu"
+1575172421846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575172421846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575172421846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575172421846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575172423467	Marionette	INFO	Listening on port 54580
+1575172423489	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575172493472	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofile06Hx5G"
+1575172493989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575172493989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575172493989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575172493989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575172495649	Marionette	INFO	Listening on port 54670
+1575172495656	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575172521275	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileIyhjzW"
+1575172521785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575172521785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575172521786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575172521786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575172523459	Marionette	INFO	Listening on port 54747
+1575172523552	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575172581371	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofilekE6wDm"
+1575172581968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575172581968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575172581969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575172581969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575172583704	Marionette	INFO	Listening on port 54840
+1575172583763	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 577"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:577:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 577, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 577: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1575172644583	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileYuANVd"
+1575172645170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575172645170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575172645170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575172645170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575172646868	Marionette	INFO	Listening on port 54953
+1575172646874	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3453, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1575172700207	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofilevXJRPK"
+1575172700792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575172700792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575172700793	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575172700793	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575172702565	Marionette	INFO	Listening on port 55048
+1575172702600	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575172719185	Marionette	INFO	Stopped listening on port 55048
+1575172722472	Marionette	INFO	Stopped listening on port 54953
+1575172725392	Marionette	INFO	Stopped listening on port 54840
+1575172727221	Marionette	INFO	Stopped listening on port 54747
+1575172729068	Marionette	INFO	Stopped listening on port 54670
+1575172730623	Marionette	INFO	Stopped listening on port 54580
+1575172732768	Marionette	INFO	Stopped listening on port 54491
+1575172827935	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileH49j43"
+1575172828370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575172828371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575172828371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575172828371	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575172829919	Marionette	INFO	Listening on port 55148
+1575172830014	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575173719423	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofilegOP6Lz"
+1575173719992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575173719992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575173719992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575173719992	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575173721718	Marionette	INFO	Listening on port 55381
+1575173721797	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3500, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+1575173765886	Marionette	INFO	Stopped listening on port 55148
+1575173772079	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileH2eJfr"
+1575173772532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575173772532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575173772532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575173772532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575173774057	Marionette	INFO	Listening on port 55463
+1575173774156	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1575173863143	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileHH3hhV"
+1575173863564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575173863564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575173863564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575173863564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575173865097	Marionette	INFO	Listening on port 55545
+1575173865117	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1575173874273	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofile6sw2ew"
+1575173874695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575173874695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575173874695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575173874695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575173876221	Marionette	INFO	Listening on port 55615
+1575173876243	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575174517824	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofile3Yp9z2"
+1575174518384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575174518385	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575174518385	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575174518385	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575174520152	Marionette	INFO	Listening on port 55738
+1575174520213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575177759025	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileF3GOkp"
+1575177759626	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575177759626	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575177759626	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575177759626	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575177761273	Marionette	INFO	Listening on port 55939
+1575177761304	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error while calling actor 'domnode's method 'getImageData'" ""
+console.error: "imageToImageData@resource://devtools/server/actors/inspector/utils.js:337:9\n"
+1575178260921	Marionette	INFO	Stopped listening on port 55939
+1575178295118	Marionette	INFO	Stopped listening on port 55738
+1575178297105	Marionette	INFO	Stopped listening on port 55615
+1575178308062	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileuerONo"
+1575178308599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575178308599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575178308599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575178308600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575178310210	Marionette	INFO	Listening on port 56040
+1575178310243	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1575178625076	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileSnstXc"
+1575178625488	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575178625488	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575178625488	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575178625488	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575178627016	Marionette	INFO	Listening on port 56135
+1575178627042	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575178864688	Marionette	INFO	Stopped listening on port 56135
+1575178874211	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofile3GgUA6"
+1575178874652	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575178874653	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575178874653	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575178874653	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575178876191	Marionette	INFO	Listening on port 56261
+1575178876284	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575178967689	Marionette	INFO	Stopped listening on port 56261
+1575178977198	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofilebXC7v7"
+1575178977667	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575178977667	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575178977667	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575178977667	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575178979278	Marionette	INFO	Listening on port 56340
+1575178979381	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1575179009422	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofilek7PPOt"
+1575179009887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575179009887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575179009887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575179009887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575179011474	Marionette	INFO	Listening on port 56415
+1575179011499	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575179385086	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileznY7KF"
+1575179385651	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575179385651	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575179385651	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575179385651	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575179387301	Marionette	INFO	Listening on port 56513
+1575179387375	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.douban.com/, line 2144: ReferenceError: $ is not defined
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: Failed to open input source 'file:///'
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: Failed to open input source 'file:///'
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1575190195319	Marionette	INFO	Stopped listening on port 56415
+1575190199059	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileBDglxk"
+1575190199515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575190199515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575190199515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575190199515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575190201157	Marionette	INFO	Listening on port 58117
+1575190201238	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+1575190227032	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileVe6IX8"
+1575190227475	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575190227476	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575190227476	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575190227476	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575190229114	Marionette	INFO	Listening on port 58187
+1575190229216	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1575190721419	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileko4qnG"
+1575190721926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575190721926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575190721926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575190721926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575190723659	Marionette	INFO	Listening on port 58451
+1575190723708	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+1575191012098	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofilezc11g3"
+1575191012605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575191012605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575191012605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575191012605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575191014353	Marionette	INFO	Listening on port 58552
+1575191014381	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1575191076348	Marionette	INFO	Stopped listening on port 58451
+1575191077983	Marionette	INFO	Stopped listening on port 58117
+1575191082662	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileyFXA7p"
+1575191083099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575191083099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575191083099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575191083099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575191084680	Marionette	INFO	Listening on port 58618
+1575191084745	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1575192045369	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileY0r995"
+1575192045883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575192045883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575192045883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575192045883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575192047560	Marionette	INFO	Listening on port 58923
+1575192047649	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4212, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4210, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+1575192097091	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileWCRePk"
+1575192097514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575192097514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575192097514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575192097514	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575192099053	Marionette	INFO	Listening on port 58976
+1575192099064	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4230, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+Exiting due to channel error.
+1575192128016	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileyEOn0i"
+1575192128458	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575192128459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575192128459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575192128459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575192130159	Marionette	INFO	Listening on port 59038
+1575192130192	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+1575192240425	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileTexB40"
+1575192240915	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575192240915	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575192240915	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575192240915	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575192242672	Marionette	INFO	Listening on port 59108
+1575192242711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=437552, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=437552, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=437552, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=437552, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=437552, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+objc[4266]: Class FIFinderSyncExtensionHost is implemented in both /System/Library/PrivateFrameworks/FinderKit.framework/Versions/A/FinderKit (0x7fffa0bd33d8) and /System/Library/PrivateFrameworks/FileProvider.framework/OverrideBundles/FinderSyncCollaborationFileProviderOverride.bundle/Contents/MacOS/FinderSyncCollaborationFileProviderOverride (0x123070f50). One of the two will be used. Which one is undefined.
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+1575195153353	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofilevE0wmx"
+1575195153888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575195153888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575195153888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575195153888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575195155558	Marionette	INFO	Listening on port 59771
+1575195155627	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+1575195173187	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileLayxzv"
+1575195173632	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575195173632	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575195173632	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575195173632	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575195175260	Marionette	INFO	Listening on port 59845
+1575195175268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4421, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+1575195203479	Marionette	INFO	Stopped listening on port 59771
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+1575195206267	Marionette	INFO	Stopped listening on port 59108
+1575195208428	Marionette	INFO	Stopped listening on port 59038
+1575195215330	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofilesJlTiT"
+1575195215768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575195215768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575195215768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575195215769	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575195217348	Marionette	INFO	Listening on port 59910
+1575195217410	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1575195360891	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileyElsfr"
+1575195361364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575195361365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575195361365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575195361365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575195363229	Marionette	INFO	Listening on port 59978
+1575195363279	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+1575195389734	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1575195504973	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofilexexOxE"
+1575195505476	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575195505476	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575195505476	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575195505477	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575195507113	Marionette	INFO	Listening on port 60061
+1575195507158	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4458, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4457, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+Exiting due to channel error.
+1575195737709	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofilev5nPLu"
+1575195738227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575195738227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575195738228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575195738228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575195739893	Marionette	INFO	Listening on port 60228
+1575195739996	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+1575195745182	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1575195819581	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileJa4lkw"
+1575195820033	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575195820033	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575195820034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575195820034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575195821723	Marionette	INFO	Listening on port 60301
+1575195821763	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4497, Chrome_ChildThread] WARNING: pipe error: Socket is not connected: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1575195849570	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileLvSTfE"
+1575195850028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575195850028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575195850028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575195850028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575195851660	Marionette	INFO	Listening on port 60365
+1575195851746	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+1575195867329	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1575195983183	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileL6Af2k"
+1575195983674	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575195983674	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575195983674	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575195983674	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575195985304	Marionette	INFO	Listening on port 60468
+1575195985361	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4527, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+1575196054734	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofilefc9D4c"
+1575196055167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575196055167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575196055168	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575196055168	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575196056776	Marionette	INFO	Listening on port 60537
+1575196056805	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1575196154644	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileAUv3lE"
+1575196155090	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575196155090	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575196155091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575196155091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575196156673	Marionette	INFO	Listening on port 60640
+1575196156721	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+1575196176503	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1575196176760	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1575196177014	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1575196177015	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1575196227485	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofile4Ohec5"
+1575196227920	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575196227920	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575196227920	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575196227920	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575196229504	Marionette	INFO	Listening on port 60706
+1575196229567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+1575196246506	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileA5vQDO"
+1575196246937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575196246938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575196246938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575196246938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575196248555	Marionette	INFO	Listening on port 60777
+1575196248581	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+1575196260351	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1575196260601	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1575196260867	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1575196260868	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+1575196328536	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofilefl9bU0"
+1575196328981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575196328982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575196328982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575196328982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575196330759	Marionette	INFO	Listening on port 60851
+1575196330822	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1575196395220	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileZK7fBk"
+1575196395678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575196395678	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575196395679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575196395679	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575196397319	Marionette	INFO	Listening on port 60919
+1575196397393	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1575196427578	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofile7q90h8"
+1575196428055	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575196428055	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575196428055	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575196428055	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575196429741	Marionette	INFO	Listening on port 60990
+1575196429763	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+1575196898672	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofile78wKTN"
+1575196899192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575196899193	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575196899193	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575196899193	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575196900935	Marionette	INFO	Listening on port 61222
+1575196900956	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4651, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+1575197441021	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileqGUuBg"
+1575197441638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575197441638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575197441638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575197441638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575197443971	Marionette	INFO	Listening on port 61606
+1575197444033	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[Child 4688, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1575197513365	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofile12E0x1"
+1575197513835	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575197513835	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575197513836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575197513836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575197515475	Marionette	INFO	Listening on port 61698
+1575197515549	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 94: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.contentType]
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+1575197527691	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofilecNH1TR"
+1575197528154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575197528154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575197528154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575197528154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575197529984	Marionette	INFO	Listening on port 61768
+1575197530081	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+1575197694631	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileJmdE9z"
+1575197695126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575197695126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575197695126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575197695126	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575197697061	Marionette	INFO	Listening on port 61919
+1575197697127	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+1575197707434	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1575197707691	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1575197707957	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1575197707958	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+1575198292852	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofilex2fBy9"
+1575198293311	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575198293311	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575198293311	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575198293311	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575198295029	Marionette	INFO	Listening on port 62112
+1575198295041	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+1575198357562	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileELOr1a"
+1575198358029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575198358029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575198358030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575198358030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575198359958	Marionette	INFO	Listening on port 62183
+1575198360051	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4863, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+1575198661257	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileOd3lG9"
+1575198661802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575198661802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575198661802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575198661802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575198663541	Marionette	INFO	Listening on port 62252
+1575198663641	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1575198688348	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofile6rwLTK"
+1575198688798	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575198688798	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575198688798	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575198688798	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575198690423	Marionette	INFO	Listening on port 62317
+1575198690523	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+1575198744480	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1575198744743	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1575198744994	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1575198744995	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+1575199119411	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileecAb1S"
+1575199119959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575199119959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575199119959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575199119959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575199121987	Marionette	INFO	Listening on port 62452
+1575199122011	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+1575199138094	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1575199138362	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1575199138625	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1575199138626	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[Child 5044, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+1575199194877	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileAyWiJ7"
+1575199195309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575199195309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575199195309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575199195309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575199196932	Marionette	INFO	Listening on port 62528
+1575199196956	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+1575199204698	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1575199204960	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1575199205224	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1575199205226	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1575199306389	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofiledvmUK2"
+1575199306914	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575199306914	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575199306914	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575199306914	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575199308456	Marionette	INFO	Listening on port 62605
+1575199308474	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1575199382805	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofilesUpnDQ"
+1575199383303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575199383303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575199383303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575199383303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575199384941	Marionette	INFO	Listening on port 62701
+1575199384984	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[Child 5098, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+1575199482745	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileowSixy"
+1575199483192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575199483192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575199483192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575199483192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575199484825	Marionette	INFO	Listening on port 62768
+1575199484924	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+1575199495869	Marionette	INFO	Stopped listening on port 62768
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+1575199612672	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileyPYMTD"
+1575199613119	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575199613119	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575199613119	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575199613119	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575199614755	Marionette	INFO	Listening on port 62854
+1575199614857	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1575199715190	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofilebfGue6"
+1575199715681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575199715681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575199715682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575199715682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575199717172	Marionette	INFO	Listening on port 62927
+1575199717265	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1575199841440	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofile6OhbMg"
+1575199841974	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575199841975	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575199841975	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575199841975	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575199843691	Marionette	INFO	Listening on port 63012
+1575199843733	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1575199893845	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileiUeTbE"
+1575199894293	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575199894293	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575199894294	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575199894294	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575199895905	Marionette	INFO	Listening on port 63084
+1575199895921	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1575200407157	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileNTDslz"
+1575200407723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575200407723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575200407723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575200407723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575200409548	Marionette	INFO	Listening on port 63243
+1575200409638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5234, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+1575200470688	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofile3nTqHp"
+1575200471144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575200471144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575200471144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575200471144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575200472759	Marionette	INFO	Listening on port 63318
+1575200472766	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5249, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1575200600414	Marionette	INFO	Stopped listening on port 61768
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+1575200603819	Marionette	INFO	Stopped listening on port 61698
+1575200655666	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileeNc3Te"
+1575200656109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575200656109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575200656109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575200656109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575200657746	Marionette	INFO	Listening on port 63393
+1575200657849	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1575200722585	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileAVv1S9"
+1575200723013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575200723013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575200723014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575200723014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575200724572	Marionette	INFO	Listening on port 63460
+1575200724662	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1575200809313	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofilewtU8CF"
+1575200809741	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575200809741	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575200809741	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575200809741	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575200811292	Marionette	INFO	Listening on port 63523
+1575200811380	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1575200897945	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofile07o3QQ"
+1575200898384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575200898385	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575200898385	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575200898385	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575200900000	Marionette	INFO	Listening on port 63587
+1575200900021	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1575201297074	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofilee4yLb0"
+1575201297618	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575201297619	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575201297619	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575201297619	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575201299308	Marionette	INFO	Listening on port 63669
+1575201299352	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1575201330050	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofilej0VSct"
+1575201330498	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575201330498	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575201330498	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575201330498	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575201332115	Marionette	INFO	Listening on port 63736
+1575201332122	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1575201370560	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofile8PI1u8"
+1575201371004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575201371004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575201371004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575201371004	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1575201427430	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofilemc87Cs"
+1575201427872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575201427872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575201427872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575201427872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575201429632	Marionette	INFO	Listening on port 63843
+1575201429711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+JavaScript error: http://www.dmbj.cc/js/com.js?v=18812484, line 125: TypeError: $(...).sidr is not a function
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=60603cb3.js, line 1: TypeError: n.ajax.request is not a function
+1575271905245	Marionette	INFO	Stopped listening on port 60706
+1575350154867	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0x/6bwl138d56d2fg6s0f186s740000gn/T/rust_mozprofileOG1D8O"
